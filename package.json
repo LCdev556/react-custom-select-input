@@ -1,0 +1,30 @@
+{
+  "name": "react-select-input",
+  "version": "1.0.0",
+  "description": "A simple customizable select input component for React.",
+  "main": "src/SelectInput.jsx",
+  "keywords": [
+    "react",
+    "select",
+    "input",
+    "component",
+    "form"
+  ],
+  "author": "LCdev556",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "prop-types": "^15.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonpseudo/react-select-input.git"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
