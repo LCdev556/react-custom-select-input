@@ -3,6 +3,16 @@
 Un composant `SelectInput` React réutilisable, converti depuis un plugin jQuery existant.  
 Fait partie du projet d'évaluation OpenClassrooms : conversion de plugins jQuery en composants React.
 
+## Dépendances
+
+Ce composant React nécessite les dépendances suivantes pour fonctionner correctement :
+
+- **React** (version 19.1.0 supérieure)
+- **Prop-types** (version 15.8.1 ou supérieure)
+- **Bootstrap** (version 5.3.6 ou supérieure)
+
+Assurez-vous de les avoir installées dans votre projet avant d'utiliser ce composant
+
 ## ✨ Fonctionnalités
 
 - Affiche un `<select>` avec :
