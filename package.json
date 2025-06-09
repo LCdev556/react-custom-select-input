@@ -14,12 +14,13 @@
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
-    "react": "^18.0.0",
-    "prop-types": "^15.8.1"
+    "react": "^19.0.0",
+    "prop-types": "^15.8.1",
+    "bootstrap": "^5.3.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonpseudo/react-select-input.git"
+    "url": "https://github.com/LCdev556/react-custom-select-input"
   },
   "files": [
     "src"
