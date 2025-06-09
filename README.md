@@ -30,12 +30,6 @@ Assurez-vous de les avoir installées dans votre projet avant d'utiliser ce comp
 npm i @lcdev556/react-select-input
 ```
 
-### Ou via GitHub Packages :
-
-```bash
-npm install @LCdev556/react-custom-select-input
-```
-
 ## 📚 Utilisation
 
 ```jsx
