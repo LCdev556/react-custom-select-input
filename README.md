@@ -17,13 +17,13 @@ Fait partie du projet d'évaluation OpenClassrooms : conversion de plugins jQuer
 ### Depuis npm :
 
 ```bash
-npm install react-custom-select-input
+npm i @lcdev556/react-select-input
 ```
 
 ### Ou via GitHub Packages :
 
 ```bash
-npm install @votre-nom/react-custom-select-input
+npm install @LCdev556/react-custom-select-input
 ```
 
 ## 📚 Utilisation
