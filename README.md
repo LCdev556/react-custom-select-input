@@ -78,5 +78,3 @@ function App() {
 MIT
 
 ---
-
-## 📎 Projet réalisé dans le cadre de la formation [OpenClassrooms Développeur d’Application JavaScript React](https://openclassrooms.com/fr/paths/717-developpeur-dapplication-javascript-react).
