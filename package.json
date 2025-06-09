@@ -2,7 +2,7 @@
   "name": "@lcdev556/react-select-input",
   "version": "1.0.0",
   "description": "A simple customizable select input component for React.",
-  "main": "src/SelectInput.jsx",
+  "main": "src/index.js",
   "keywords": [
     "react",
     "select",
